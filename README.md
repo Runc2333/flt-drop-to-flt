@@ -2,6 +2,20 @@
 
 Converts FLT-DROP tokens to FLT tokens.
 
+## If you have no node.js installed
+
+Download node.js from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
+
+(this project is tested with node.js version 18.20.1)
+
+## If you have no yarn installed
+
+Run this command to install yarn:
+
+```bash
+npm install -g yarn
+```
+
 ## Usage
 
 Run this command to start the server:
